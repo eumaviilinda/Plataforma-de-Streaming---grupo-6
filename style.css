@@ -14,3 +14,7 @@ body{
     margin: 0;
     padding: 0;                                                                                                                                                                                                            
 }
+
+.conteudo-principal{
+    background-image: url("./img/abstract-red-black-futuristic-gaming-background-livestream-panel_562076-45.avif");
+}
